@@ -1,5 +1,6 @@
 # ✦ A Mind in Orbit
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1B,50:171B3B,100:34305B&height=220&section=header&text=Surabhi%20Bharati&fontSize=48&fontColor=EAE6FF&fontAlignY=38&desc=Somewhere%20between%20logic%20and%20imagination.&descSize=16&descAlignY=58&descColor=C5C2E8" width="100%" alt="Surabhi Bharati — A Mind in Orbit"/>
 </p>
@@ -23,7 +24,7 @@ Hello, I'm **Surabhi Bharati** — a B.Tech Information Technology student, aspi
 I exist somewhere between logic and imagination: fascinated by the way technology solves problems, the way data reveals patterns, and the way creativity gives ideas a life of their own.
 
 - 🌌 Exploring **Artificial Intelligence, Machine Learning, and Data Science**
-- 💻 Practising **Data Structures and Algorithms** with Java
+- 💻 Practising **Data Structures and Algorithms** with Python and learning Java side by side.
 - 🐍 Building with Python and exploring its possibilities
 - 🧠 Learning how intelligent systems transform data into insights
 - 🎨 Finding inspiration in art, painting, music, and astronomy
@@ -32,6 +33,11 @@ I exist somewhere between logic and imagination: fascinated by the way technolog
 > *“Somewhere between the stars and the syntax, I'm building my own little universe.”*
 
 ---
+<p align="center">
+  <a href="https://a-mind-in-orbit.vercel.app/">
+    <img src="https://img.shields.io/badge/✦_A_Mind_in_Orbit-Visit_My_Portfolio-111321?style=for-the-badge&labelColor=111321&color=25213A" alt="Visit A Mind in Orbit"/>
+  </a>
+</p>
 
 ## ✧ Tech Stack
 
