@@ -77,17 +77,27 @@ I exist somewhere between logic and imagination: fascinated by the way technolog
 
 ## ☄ GitHub Statistics
 
+## ☾ a little progress, over time
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Surabhi-Bharati&show_icons=true&hide_border=true&bg_color=080D1B&title_color=C5B8FF&icon_color=B8C7FF&text_color=E6E6FA&ring_color=C5B8FF" alt="Surabhi's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Bharati&layout=compact&hide_border=true&bg_color=080D1B&title_color=C5B8FF&text_color=E6E6FA" alt="Most used programming languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Surabhi-Bharati&show_icons=true&hide_border=true&bg_color=070912&title_color=C9BDF2&icon_color=A99BDF&text_color=D0CDDF"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Bharati&layout=compact&hide_border=true&bg_color=070912&title_color=C9BDF2&text_color=D0CDDF"
+    height="165"
+    alt="Most used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surabhi-Bharati&hide_border=true&background=080D1B&stroke=34305B&ring=C5B8FF&fire=F5C56B&currStreakLabel=C5B8FF&sideLabels=E6E6FA&currStreakNum=E6E6FA&sideNums=E6E6FA&dates=9CA3C7" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surabhi-Bharati&bg_color=080D1B&color=C5B8FF&line=8D83D8&point=E6E6FA&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Surabhi-Bharati&hide_border=true&background=070912&stroke=25243A&ring=A99BDF&fire=C9BDF2&currStreakLabel=C9BDF2&sideLabels=A49ABD&currStreakNum=E4DDF7&sideNums=D0CDDF&dates=77738E"
+    width="75%"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 ---
