@@ -1,127 +1,136 @@
-# ✦ A Mind in Orbit
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1B,50:171B3B,100:34305B&height=220&section=header&text=Surabhi%20Bharati&fontSize=48&fontColor=EAE6FF&fontAlignY=38&desc=Somewhere%20between%20logic%20and%20imagination.&descSize=16&descAlignY=58&descColor=C5C2E8" width="100%" alt="Surabhi Bharati — A Mind in Orbit"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E18&height=190&section=header&text=Surabhi%20Bharati&fontSize=44&fontColor=DDD7F2&fontAlignY=42&desc=a%20mind%20in%20orbit&descSize=14&descColor=9993B8&descAlignY=65" width="100%" alt="Surabhi Bharati — A Mind in Orbit"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Surabhi-Bharati"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6E6FA" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/surabhi-bharati-cipher"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=B8A9FF" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/starlitwillow/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=F5C56B" alt="LeetCode"/></a>
+  <samp>software · intelligence · imagination</samp>
 </p>
 
 <p align="center">
-  <i>✧ A curious mind exploring the universe of code, intelligence, and creativity. ✧</i>
+  <a href="https://github.com/Surabhi-Bharati">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/surabhi-bharati-cipher">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://leetcode.com/u/starlitwillow/">LeetCode</a>
+  &nbsp; · &nbsp;
+  <a href="https://a-mind-in-orbit.vercel.app/">Portfolio</a>
 </p>
 
----
+<br/>
 
-## ☾ About Me
+## about me
 
-Hello, I'm **Surabhi Bharati** — a B.Tech Information Technology student, aspiring software developer, and lifelong learner.
+I'm **Surabhi Bharati** — an Information Technology student, aspiring software developer, and curious mind drawn to the space between logic and imagination.
 
-I exist somewhere between logic and imagination: fascinated by the way technology solves problems, the way data reveals patterns, and the way creativity gives ideas a life of their own.
+I love understanding how things work: how algorithms find elegant solutions, how data reveals patterns, and how machines can learn from the world around them.
 
-- 🌌 Exploring **Artificial Intelligence, Machine Learning, and Data Science**
-- 💻 Practising **Data Structures and Algorithms** with Java
-- 🐍 Building with Python and exploring its possibilities
-- 🧠 Learning how intelligent systems transform data into insights
-- 🎨 Finding inspiration in art, painting, music, and astronomy
-- 🚀 Turning curious ideas into meaningful projects
+Beyond the screen, you'll find me somewhere among art, music, astronomy, and the little details that make ordinary things beautiful.
 
-> *“Somewhere between the stars and the syntax, I'm building my own little universe.”*
+- Exploring machine learning, AI, and data science
+- Practising data structures and algorithms in Java
+- Building with Python and learning by creating
+- Finding inspiration in art, music, and the cosmos
 
----
+<br/>
 
-## ✧ Tech Stack
+## the things I work with
 
-### Languages
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-171B3B?style=for-the-badge&logo=python&logoColor=B8C7FF" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-171B3B?style=for-the-badge&logo=openjdk&logoColor=E6C9FF" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-171B3B?style=for-the-badge&logo=c&logoColor=B8C7FF" alt="C"/>
-  <img src="https://img.shields.io/badge/SQL-171B3B?style=for-the-badge&logo=mysql&logoColor=C5B8FF" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-171B3B?style=for-the-badge&logo=javascript&logoColor=F7DF8B" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-171827?style=flat-square&logo=python&logoColor=C5C1E8" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-171827?style=flat-square&logo=openjdk&logoColor=C5C1E8" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-171827?style=flat-square&logo=c&logoColor=C5C1E8" alt="C"/>
+  <img src="https://img.shields.io/badge/SQL-171827?style=flat-square&logo=mysql&logoColor=C5C1E8" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-171827?style=flat-square&logo=javascript&logoColor=C5C1E8" alt="JavaScript"/>
 </p>
 
-### AI, Machine Learning & Data Science
+**AI · Machine Learning · Data Science**
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-171B3B?style=for-the-badge&logo=numpy&logoColor=B8C7FF" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-171B3B?style=for-the-badge&logo=pandas&logoColor=C5B8FF" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-171B3B?style=for-the-badge&logo=scikitlearn&logoColor=F5C56B" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-171B3B?style=for-the-badge&logo=plotly&logoColor=B8C7FF" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-171B3B?style=for-the-badge&logo=python&logoColor=C5B8FF" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/NumPy-171827?style=flat-square&logo=numpy&logoColor=C5C1E8" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-171827?style=flat-square&logo=pandas&logoColor=C5C1E8" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-171827?style=flat-square&logo=scikitlearn&logoColor=C5C1E8" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-171827?style=flat-square&logo=python&logoColor=C5C1E8" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-171827?style=flat-square&logo=python&logoColor=C5C1E8" alt="Seaborn"/>
 </p>
 
-### Development & Tools
+**Development · Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-171B3B?style=for-the-badge&logo=html5&logoColor=F5A78B" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-171B3B?style=for-the-badge&logo=css3&logoColor=B8C7FF" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-171B3B?style=for-the-badge&logo=react&logoColor=9CEBFF" alt="React"/>
-  <img src="https://img.shields.io/badge/Streamlit-171B3B?style=for-the-badge&logo=streamlit&logoColor=FFB4B4" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Git-171B3B?style=for-the-badge&logo=git&logoColor=F5A78B" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-171B3B?style=for-the-badge&logo=github&logoColor=E6E6FA" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-171B3B?style=for-the-badge&logo=visualstudiocode&logoColor=9CEBFF" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/HTML5-171827?style=flat-square&logo=html5&logoColor=C5C1E8" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-171827?style=flat-square&logo=css3&logoColor=C5C1E8" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-171827?style=flat-square&logo=react&logoColor=C5C1E8" alt="React"/>
+  <img src="https://img.shields.io/badge/Streamlit-171827?style=flat-square&logo=streamlit&logoColor=C5C1E8" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Git-171827?style=flat-square&logo=git&logoColor=C5C1E8" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-171827?style=flat-square&logo=github&logoColor=C5C1E8" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-171827?style=flat-square&logo=visualstudiocode&logoColor=C5C1E8" alt="VS Code"/>
 </p>
 
----
+<br/>
 
-## ☄ GitHub Statistics
+## things taking shape
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Surabhi-Bharati&show_icons=true&hide_border=true&bg_color=080D1B&title_color=C5B8FF&icon_color=B8C7FF&text_color=E6E6FA&ring_color=C5B8FF" alt="Surabhi's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Bharati&layout=compact&hide_border=true&bg_color=080D1B&title_color=C5B8FF&text_color=E6E6FA" alt="Most used programming languages"/>
+### 01 / EEG signal classification
+
+Exploring machine learning for multiclass EEG signal classification — from data exploration and preprocessing to model evaluation and an interactive application.
+
+`Python` `Pandas` `Scikit-learn` `Streamlit`
+
+### 02 / CareerLens
+
+An evolving idea for a resume and career platform, bringing together resume building, job compatibility, and skill-gap recommendations.
+
+`Python` `Machine Learning` `NLP`
+
+### 03 / A Mind in Orbit
+
+My personal portfolio: a small digital universe where software, art, music, and curiosity find their place together.
+
+`React` `JavaScript` `CSS`
+
+<p align="right">
+  <a href="https://github.com/Surabhi-Bharati?tab=repositories">
+    <sub>explore my repositories ↗</sub>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surabhi-Bharati&hide_border=true&background=080D1B&stroke=34305B&ring=C5B8FF&fire=F5C56B&currStreakLabel=C5B8FF&sideLabels=E6E6FA&currStreakNum=E6E6FA&sideNums=E6E6FA&dates=9CA3C7" alt="GitHub contribution streak"/>
-</p>
+<br/>
+
+## a little progress, over time
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surabhi-Bharati&bg_color=080D1B&color=C5B8FF&line=8D83D8&point=E6E6FA&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-</p>
-
----
-
-## 🚀 Projects in My Orbit
-
-### 🧠 EEG Signal Classification Using Machine Learning
-Exploring machine learning models for multiclass EEG signal classification, with a focus on preprocessing, feature analysis, model evaluation, and an interactive Streamlit interface.
-
-**Tech:** Python · Pandas · NumPy · Scikit-learn · Matplotlib · Streamlit
-
-### ✦ CareerLens — Resume & Job Compatibility
-An evolving project concept focused on resume building, job compatibility, and skill-gap recommendations to help people understand and communicate their professional potential.
-
-**Tech:** Python · Machine Learning · NLP · Web Development
-
-### 🌌 A Mind in Orbit — Personal Portfolio
-A creative portfolio concept bringing together software development, AI, art, music, and astronomy in an immersive digital experience.
-
-**Tech:** HTML · CSS · JavaScript · React
-
-<p align="center">
-  <i>More experiments, ideas, and projects are finding their way into orbit.</i>
-</p>
-
----
-
-## 🌙 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Surabhi-Bharati"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-171B3B?style=for-the-badge&logo=github&logoColor=E6E6FA" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/surabhi-bharati-cipher"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-171B3B?style=for-the-badge&logo=linkedin&logoColor=B8C7FF" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/starlitwillow/"><img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-171B3B?style=for-the-badge&logo=leetcode&logoColor=F5C56B" alt="LeetCode"/></a>
-  <a href="https://a-mind-in-orbit.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A%20Mind%20in%20Orbit-171B3B?style=for-the-badge&logo=vercel&logoColor=C5B8FF" alt="Portfolio"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Surabhi-Bharati&show_icons=true&hide_border=true&bg_color=0B0E18&title_color=C5BEDF&icon_color=AAA0D0&text_color=B9B5CC&ring_color=AAA0D0" height="160" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Bharati&layout=compact&hide_border=true&bg_color=0B0E18&title_color=C5BEDF&text_color=B9B5CC" height="160" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <i>Thanks for stopping by. Stay curious, keep creating, and follow your own orbit. ✦</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surabhi-Bharati&hide_border=true&background=0B0E18&stroke=292638&ring=AAA0D0&fire=C5BEDF&currStreakLabel=C5BEDF&sideLabels=AAA5BC&currStreakNum=DDD7F2&sideNums=DDD7F2&dates=77738E" width="70%" alt="GitHub contribution streak"/>
+</p>
+
+<br/>
+
+## find me elsewhere
+
+<p align="center">
+  <a href="https://github.com/Surabhi-Bharati">
+    <img src="https://img.shields.io/badge/GitHub-171827?style=flat-square&logo=github&logoColor=C5C1E8" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/surabhi-bharati-cipher">
+    <img src="https://img.shields.io/badge/LinkedIn-171827?style=flat-square&logo=linkedin&logoColor=C5C1E8" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/starlitwillow/">
+    <img src="https://img.shields.io/badge/LeetCode-171827?style=flat-square&logo=leetcode&logoColor=C5C1E8" alt="LeetCode"/>
+  </a>
+  <a href="https://a-mind-in-orbit.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-171827?style=flat-square&logo=vercel&logoColor=C5C1E8" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34305B,50:171B3B,100:080D1B&height=100&section=footer" width="100%" alt="Celestial footer"/>
+  <sub>“Stay curious. There is always another universe to discover.”</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E18&height=45&section=footer" width="100%" alt=""/>
 </p>
