@@ -1,129 +1,279 @@
-# 🌌 A MIND IN ORBIT
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090B1A,40:171338,75:29205A,100:101A35&text=A%20MIND%20IN%20ORBIT&fontColor=E6E0FF&fontSize=42&fontAlignY=38&desc=Curiosity%20has%20no%20orbit.&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-<a href="https://github.com/Surabhi-Bharati">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=B9A7FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Surabhi+Bharati.;Building+things+that+make+me+curious.;Exploring+AI%2C+ML+%26+the+Web.;Somewhere+between+logic+and+imagination." alt="Typing SVG"/>
-</a>
+<img src="assets/codex-header.svg" width="100%" alt="Codex Astralis — Surabhi Bharati"/>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Surabhi-Bharati?style=flat&color=8274C9&labelColor=11111F&logo=github)](https://github.com/Surabhi-Bharati?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Surabhi-Bharati&color=8274C9&style=flat&label=VISITORS)](https://github.com/Surabhi-Bharati)
+<a href="https://github.com/Surabhi-Bharati"><img src="https://img.shields.io/badge/GITHUB-0B0E1B?style=flat-square&logo=github&logoColor=E8E0FF" /></a>
+<a href="https://www.linkedin.com/in/surabhi-bharati-cipher/"><img src="https://img.shields.io/badge/LINKEDIN-0B0E1B?style=flat-square&logo=linkedin&logoColor=8FE5F2" /></a>
+<a href="https://leetcode.com/u/starlitwillow/"><img src="https://img.shields.io/badge/LEETCODE-0B0E1B?style=flat-square&logo=leetcode&logoColor=C4A96B" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=900&color=B9A7FF&center=true&vCenter=true&width=760&lines=I+build+systems+that+turn+questions+into+possibilities.;Exploring+AI%2C+machine+learning+%26+software+architecture.;Somewhere+between+logic+and+infinity." alt="Animated introduction"/>
+
+<sub>PERSONAL RESEARCH ARCHIVE · VOL. 001 · CONTINUOUSLY EVOLVING</sub>
 
 </div>
 
 ---
 
-### ✦ TRANSMISSION FROM EARTH
+<details>
+<summary><b>⌘ NAVIGATE THE ARCHIVE</b> &nbsp;·&nbsp; <sub>OPEN INDEX</sub></summary>
 
-```python
-class Surabhi:
+| COORDINATE | CHAPTER | CONTENT |
+|:---:|:---|:---|
+| 00 | The Observer | Identity and philosophy |
+| 01 | Knowledge Systems | Languages and technologies |
+| 02 | Constellation Map | Technical ecosystem |
+| 03 | Research Chamber | Selected projects |
+| 04 | Algorithmic Observatory | DSA and problem solving |
+| 05 | System Telemetry | GitHub activity |
+| 06 | Beyond the Machine | Creative interests |
+| 07 | Epilogue | Closing transmission |
 
-    def __init__(self):
-        self.name = "Surabhi Bharati"
-        self.role = "Computer Science Engineer"
-        self.education = "B.Tech IT | Class of 2028"
-        self.current_focus = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Full Stack Development",
-            "Data Structures & Algorithms"
-        ]
+</details>
 
-    def philosophy(self):
-        return "Build with logic. Imagine without limits."
+<div align="center">
 
-    def current_status(self):
-        return "Always exploring another dimension."
-```
+## 00 / THE OBSERVER
+### A STUDY IN CURIOSITY
 
-I'm an engineering student fascinated by the intersection of technology, creativity, and intelligent systems.
+*I am an Information Technology undergraduate at Asansol Engineering College, graduating in 2028.*
 
-I enjoy understanding how things work, experimenting with ideas, and turning concepts into something tangible.
+</div>
 
-I don't just want to write code. I want to build things that make people wonder how they work.
+I am drawn to the places where computation meets imagination: intelligent systems, machine learning, natural language processing, software architecture, and the process of turning abstract ideas into working things.
 
----
+I like understanding what happens beneath the interface — the mathematics behind a model, the structure behind an algorithm, the reasoning behind an architecture.
 
-### 🪐 THE TECH CONSTELLATION
+I am not interested in learning technologies as isolated tools. I want to understand how they connect, where they become useful, and what new possibilities emerge when they are combined.
 
-**01 — Languages**
-
-![Python](https://img.shields.io/badge/Python-11111F?style=for-the-badge&logo=python&logoColor=B9A7FF)
-![Java](https://img.shields.io/badge/Java-11111F?style=for-the-badge&logo=openjdk&logoColor=B9A7FF)
-![C](https://img.shields.io/badge/C-11111F?style=for-the-badge&logo=c&logoColor=B9A7FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-11111F?style=for-the-badge&logo=javascript&logoColor=F0DB8D)
-
-**02 — Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-11111F?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-11111F?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-11111F?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Node](https://img.shields.io/badge/Node.js-11111F?style=for-the-badge&logo=nodedotjs&logoColor=8CC84B)
-![FastAPI](https://img.shields.io/badge/FastAPI-11111F?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Express](https://img.shields.io/badge/Express-11111F?style=for-the-badge&logo=express&logoColor=FFFFFF)
-
-**03 — AI / ML & Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-11111F?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-11111F?style=for-the-badge&logo=tensorflow&logoColor=FF9A00)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-11111F?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-11111F?style=for-the-badge&logo=postgresql&logoColor=699BCB)
-![MongoDB](https://img.shields.io/badge/MongoDB-11111F?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Docker](https://img.shields.io/badge/Docker-11111F?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-**04 — Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-11111F?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-11111F?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-11111F?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![VS Code](https://img.shields.io/badge/VS_Code-11111F?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
+> **My operating principle:** build with logic, explore with curiosity, and leave enough room for imagination.
 
 ---
 
-### 🚀 PROJECTS IN ORBIT
+<div align="center">
 
-| Project | Mission |
+## 01 / KNOWLEDGE SYSTEMS
+### THE TECHNOLOGICAL ATLAS
+
+<sub>LANGUAGES · INTELLIGENCE · ARCHITECTURE · INFRASTRUCTURE</sub>
+
+</div>
+
+<table>
+<tr><td width="50%" valign="top">
+
+**Ⅰ — Computational languages**
+
+`Python` `Java` `C` `JavaScript`
+
+**Ⅱ — AI & learning systems**
+
+`Machine Learning` `Deep Learning` `NLP` `LLMs` `RAG` `YOLOv11`
+
+`PyTorch` `TensorFlow` `Scikit-learn` `spaCy`
+
+</td><td width="50%" valign="top">
+
+**Ⅲ — Application engineering**
+
+`React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
+
+`FastAPI` `Node.js` `Express.js`
+
+**Ⅳ — Data & infrastructure**
+
+`PostgreSQL` `MongoDB` `AWS` `Docker`
+
+**Ⅴ — Developer instruments**
+
+`Git` `GitHub` `VS Code`
+
+</td></tr>
+</table>
+
+<details>
+<summary><b>OPEN THE TECHNICAL INDEX</b> · expanded technology inventory</summary>
+
+| SYSTEM | TECHNOLOGIES |
+|---|---|
+| Programming | Python, Java, C, JavaScript |
+| Frontend | React.js, Next.js, HTML5, CSS3, Tailwind CSS |
+| Backend | FastAPI, Node.js, Express.js |
+| Machine Learning | PyTorch, TensorFlow, Scikit-learn |
+| Language Intelligence | NLP, spaCy, LLMs, RAG |
+| Computer Vision | YOLOv11 |
+| Databases | PostgreSQL, MongoDB |
+| Cloud & DevOps | AWS, Docker |
+| Workflow | Git, GitHub, VS Code |
+
+</details>
+
+---
+
+<div align="center">
+
+## 02 / CONSTELLATION MAP
+### HOW THE SYSTEMS CONNECT
+
+<img src="assets/knowledge-constellation.svg" width="100%" alt="A custom map connecting Surabhi's technical interests"/>
+
+<sub>ONE FIELD OF STUDY · MANY INTERCONNECTED DIMENSIONS</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 03 / RESEARCH CHAMBER
+### SELECTED EXPERIMENTS & ENGINEERING
+
+<sub>IDEA → INVESTIGATION → IMPLEMENTATION → EVALUATION</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Ⅰ. CareerLens
+
+<sub>INTELLIGENT CAREER SYSTEMS / NLP</sub>
+
+An intelligent resume-building and job compatibility system designed to analyse resumes against job descriptions, estimate compatibility, and identify skill gaps.
+
+**Research components**
+
+- Resume and job-description processing
+- Skill extraction
+- TF-IDF vectorisation
+- Cosine similarity
+- Weighted compatibility scoring
+- Skill gap identification
+
+**Stack**
+
+`Python` `NLP` `Scikit-learn` `FastAPI` `React` `Tailwind CSS`
+
+<br/>
+
+[↗ EXPLORE THE REPOSITORY](https://github.com/Surabhi-Bharati/CareerLens)
+
+</td>
+<td width="50%" valign="top">
+
+### Ⅱ. Multi-Class EEG Signal Classification
+
+<sub>APPLIED MACHINE LEARNING / SIGNAL ANALYSIS</sub>
+
+A machine learning project exploring multi-class EEG signal classification through feature analysis, supervised learning, model evaluation, and robustness experiments.
+
+**Research components**
+
+- Exploratory data analysis
+- Feature analysis
+- Random Forest and XGBoost
+- Model comparison
+- Confusion matrix and feature importance
+- Gaussian and impulse noise experiments
+- Streamlit application
+
+**Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Streamlit`
+
+<br/>
+
+[↗ EXPLORE THE REPOSITORY](https://github.com/Surabhi-Bharati/Multi-Class-EEG-Signal-Classification)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 04 / ALGORITHMIC OBSERVATORY
+### THE GEOMETRY OF PROBLEM SOLVING
+
+</div>
+
+I enjoy the process of reducing a complex problem to its underlying structure — identifying patterns, reasoning about constraints, and choosing an efficient approach.
+
+`Data Structures` · `Dynamic Programming` · `Graph Algorithms` · `Backtracking` · `Greedy Methods` · `Complexity Analysis`
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/ENTER_LEETCODE_ARCHIVE-17142A?style=for-the-badge&logo=leetcode&logoColor=C4A96B" alt="LeetCode"/>](https://leetcode.com/u/starlitwillow/)
+
+</div>
+
+---
+
+<div align="center">
+
+## 05 / SYSTEM TELEMETRY
+### A TRACE OF THE WORK
+
+<sub>PUBLIC GITHUB ACTIVITY · AUTOMATICALLY GENERATED STATISTICS</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Surabhi-Bharati&show_icons=true&hide_border=true&bg_color=0B0E1B&title_color=B9A7FF&icon_color=C4A96B&text_color=D9D5E8&ring_color=B9A7FF" width="49%" alt="GitHub overview"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Bharati&layout=compact&hide_border=true&bg_color=0B0E1B&title_color=B9A7FF&text_color=D9D5E8" width="49%" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Surabhi-Bharati&hide_border=true&background=0B0E1B&ring=B9A7FF&fire=C4A96B&currStreakLabel=B9A7FF&sideLabels=D9D5E8&dates=88849C" width="75%" alt="Contribution streak"/>
+
+<img src="assets/system-telemetry.svg" width="100%" alt="System telemetry illustration"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 06 / BEYOND THE MACHINE
+### THE HUMAN VARIABLE
+
+</div>
+
+Not every curiosity belongs in a codebase.
+
+| FIELD | WHAT DRAWS ME TO IT |
 |:---|:---|
-| **CareerLens** | Intelligent Resume Builder, Job Compatibility & Skill Gap Recommendation System |
-| **EEG Classification** | Machine learning-based EEG signal classification |
-| **A Mind in Orbit** | A personal digital space blending technology and aesthetics |
+| Astronomy | The scale and architecture of the universe |
+| Art & painting | Visual expression, colour and form |
+| Music | Melody, atmosphere and emotion |
+| Nature | Intricate details and unexpected beauty |
+| Philosophy | Questions that resist simple answers |
 
----
-
-### 📡 GITHUB TELEMETRY
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Surabhi-Bharati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B9A7FF&icon_color=9B8AFB&text_color=D8D5E8"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Bharati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B9A7FF&text_color=D8D5E8"/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Surabhi-Bharati&theme=tokyonight&hide_border=true&background=0D1117&ring=B9A7FF&fire=9B8AFB&currStreakLabel=B9A7FF"/>
-
-</div>
-
----
-
-### 🌙 BEYOND THE TERMINAL
-
-A mind that wanders between logic and imagination.
-
-Interested in art, painting, music, aesthetics, astronomy, and the little details that make ordinary things extraordinary.
-
-I believe there's something beautiful about creating something from nothing.
+I find it beautiful that a mind can appreciate the precision of an algorithm and the imperfections of a painting.
 
 ---
 
 <div align="center">
 
-### ✧ END OF TRANSMISSION ✧
+## 07 / EPILOGUE
+### THE NEXT ITERATION
 
-**Still learning. Still building. Still orbiting.**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29205A,50:171338,100:090B1A&height=110&section=footer" width="100%"/>
+*Per aspera ad astra.*
+
+<sub>THROUGH DIFFICULTIES, TO THE STARS.</sub>
+
+<br/>
+
+**Still learning. Still questioning. Still building.**
+
+There is always another system to understand, another problem to investigate, another idea waiting to become real.
+
+<br/>
+
+<sub>COGITO · CONSTRUO · EXPLORO</sub>
+
+<br/>
+
+<sub>CODEX ASTRALIS / SURABHI BHARATI / END OF TRANSMISSION</sub>
 
 </div>
