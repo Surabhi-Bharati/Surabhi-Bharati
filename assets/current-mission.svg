@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="t d">
+<title id="t">Current mission terminal</title><desc id="d">A static terminal-inspired panel listing current areas of focus.</desc>
+<rect width="1000" height="250" rx="18" fill="#0B0E1B" stroke="#514775"/>
+<circle cx="28" cy="27" r="5" fill="#C4A96B"/><circle cx="47" cy="27" r="5" fill="#B9A7FF"/><circle cx="66" cy="27" r="5" fill="#8FE5F2"/>
+<text x="92" y="32" fill="#B9A7FF" font-family="monospace" font-size="12" letter-spacing="2">SURABHI@CODEX: ~/CURRENT-MISSION</text>
+<path d="M25 51H975" stroke="#514775"/>
+<g font-family="monospace" font-size="15">
+ <text x="38" y="91" fill="#8FE5F2">$</text><text x="64" y="91" fill="#E8E0FF">focus --area "AI / ML and intelligent systems"</text>
+ <text x="38" y="128" fill="#8FE5F2">$</text><text x="64" y="128" fill="#E8E0FF">build --project "CareerLens"</text>
+ <text x="38" y="165" fill="#8FE5F2">$</text><text x="64" y="165" fill="#E8E0FF">practice --track "DSA / Java"</text>
+ <text x="38" y="202" fill="#8FE5F2">$</text><text x="64" y="202" fill="#C4A96B">status: learning_in_progress</text>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="500" viewBox="0 0 1100 500" role="img" aria-labelledby="t d">
+<title id="t">EEG model evaluation dashboard template</title><desc id="d">A project-specific visual template for recording verified EEG classifier evaluation metrics. Values are intentionally marked pending so experimental runs are not confused.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090D1B"/><stop offset="1" stop-color="#1B1734"/></linearGradient></defs>
+<rect width="1100" height="500" rx="20" fill="url(#bg)"/>
+<text x="48" y="48" fill="#C4A96B" font-family="monospace" font-size="14" letter-spacing="3">EEG / MODEL EVALUATION BOARD</text>
+<text x="48" y="82" fill="#E8E0FF" font-family="Georgia,serif" font-size="28">Multi-class signal classification</text>
+<text x="48" y="112" fill="#AAA4C4" font-family="monospace" font-size="12">BEED DATASET · RANDOM FOREST · XGBOOST · ROBUSTNESS TESTING</text>
+<g>
+ <rect x="48" y="150" width="310" height="125" rx="13" fill="#171A30" stroke="#8D82C7"/>
+ <rect x="395" y="150" width="310" height="125" rx="13" fill="#171A30" stroke="#8FE5F2"/>
+ <rect x="742" y="150" width="310" height="125" rx="13" fill="#171A30" stroke="#C4A96B"/>
+ <g font-family="monospace">
+  <text x="75" y="185" fill="#B9A7FF" font-size="13">TEST ACCURACY</text><text x="75" y="232" fill="#E8E0FF" font-size="25">ADD VERIFIED %</text><text x="75" y="255" fill="#928CAB" font-size="10">Use held-out test set</text>
+  <text x="422" y="185" fill="#8FE5F2" font-size="13">VALIDATION ACCURACY</text><text x="422" y="232" fill="#E8E0FF" font-size="25">ADD VERIFIED %</text><text x="422" y="255" fill="#928CAB" font-size="10">Name the model / split</text>
+  <text x="769" y="185" fill="#C4A96B" font-size="13">ROBUSTNESS RESULT</text><text x="769" y="232" fill="#E8E0FF" font-size="25">ADD VERIFIED VALUE</text><text x="769" y="255" fill="#928CAB" font-size="10">Specify noise level / metric</text>
+ </g>
+</g>
+<text x="48" y="325" fill="#B9A7FF" font-family="monospace" font-size="13" letter-spacing="2">EVALUATION CHECKLIST</text>
+<g font-family="monospace" font-size="15" fill="#D9D5E8">
+ <text x="75" y="365">◇ Confusion matrix</text><text x="390" y="365">◇ Per-class precision / recall / F1</text><text x="790" y="365">◇ Macro / weighted averages</text>
+ <text x="75" y="405">◇ Random Forest vs XGBoost</text><text x="390" y="405">◇ Gaussian noise experiment</text><text x="790" y="405">◇ Impulse noise experiment</text>
+</g>
+<path d="M48 440H1052" stroke="#514775"/>
+<text x="48" y="470" fill="#C4A96B" font-family="monospace" font-size="11">IMPORTANT: Populate these fields from the final reproducible evaluation output before publishing.</text>
+</svg>
