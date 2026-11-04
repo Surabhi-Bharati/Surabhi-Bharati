@@ -212,21 +212,39 @@ I enjoy the process of reducing a complex problem to its underlying structure �
 
 ---
 
+
+<!-- 05 / SYSTEM TELEMETRY -->
+
 <div align="center">
 
-## 05 / SYSTEM TELEMETRY
-### A TRACE OF THE WORK
+  <img src="assets/system-telemetry.svg" width="100%" alt="System Telemetry"/>
 
-<sub>PUBLIC GITHUB ACTIVITY · AUTOMATICALLY GENERATED STATISTICS</sub>
+  <h3>
+    <span style="color:#C4A6FF;">A TRACE OF THE WORK</span>
+  </h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Surabhi-Bharati&show_icons=true&hide_border=true&bg_color=0B0E1B&title_color=B9A7FF&icon_color=C4A96B&text_color=D9D5E8&ring_color=B9A7FF" width="49%" alt="GitHub overview"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Bharati&layout=compact&hide_border=true&bg_color=0B0E1B&title_color=B9A7FF&text_color=D9D5E8" width="49%" alt="Most used languages"/>
+  <p>
+    <span style="color:#A9A3C4;">
+      PUBLIC GITHUB ACTIVITY · SELF-HOSTED STATISTICS
+    </span>
+  </p>
 
-<img src="https://streak-stats.demolab.com?user=Surabhi-Bharati&hide_border=true&background=0B0E1B&ring=B9A7FF&fire=C4A96B&currStreakLabel=B9A7FF&sideLabels=D9D5E8&dates=88849C" width="75%" alt="Contribution streak"/>
+  <img
+    src="assets/github-metrics.svg"
+    width="100%"
+    alt="GitHub activity, repository and language metrics"
+  />
 
-<img src="assets/system-telemetry.svg" width="100%" alt="System telemetry illustration"/>
+  <p>
+    <sub>
+      <span style="color:#8FE5F2;">
+        SYSTEM STATUS: TRACKING CONTRIBUTIONS
+      </span>
+    </sub>
+  </p>
 
 </div>
+
 
 ---
 
